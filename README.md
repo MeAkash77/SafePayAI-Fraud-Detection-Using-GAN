@@ -90,7 +90,7 @@ Why SafePayAI Stood Out
 ### Setup:
 1. Clone the Main repository:
    ```bash
-   git clone https://github.com/Shabopp/FraudDetectionUsingGAN.git
+   git clone https://github.com/MeAkash77/SafePayAI-Fraud-Detection-Using-GAN.git
    ```
 2. Navigate to the project directory:
    ```bash
